@@ -1,4 +1,5 @@
 # FirstGithubDemo
 This is my first Git Repository.
 <br>
-Author : Harsh Kotadiya
+Author : Harsh Kotadiya[PALANPUR]
+
